@@ -9,25 +9,25 @@
 ##### `接口1` (原生)
 
 ```url
-https://player.icodeq.com/v1/?url=
+https://player.quickso.cn/v1/?url=
 ```
 
 ##### `接口2` (Dplayer)
 
 ```url
-https://player.icodeq.com/v2/?url=
+https://player.quickso.cn/v2/?url=
 ```
 
 ##### `接口3` (Plyr)
 
 ```url
-https://player.icodeq.com/v3/?url=
+https://player.quickso.cn/v3/?url=
 ```
 
 ##### `接口4` (video.js)
 
 ```url
-https://player.icodeq.com/v4/?url=
+https://player.quickso.cn/v4/?url=
 ```
 
 #### MP4
@@ -35,5 +35,5 @@ https://player.icodeq.com/v4/?url=
 ##### `Dplayer`
 
 ```url
-https://player.icodeq.com/mp4/?url=
+https://player.quickso.cn/mp4/?url=
 ```
